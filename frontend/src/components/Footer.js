@@ -17,8 +17,6 @@ export default function Footer() {
       <div className="footer-columns">
         <div className="footer-col">
           <h5>Contact Us</h5>
-          <p>📞 +91 98703 30830</p>
-          <p>📞 +923270177676</p>
           <p>
             💬 <Link to="/diagnose">Click here to join</Link>
           </p>
